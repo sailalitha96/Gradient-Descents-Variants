@@ -8,3 +8,7 @@ Retinopathy Diagnosis: data/retinopathy.dat. The last column of the dataset indi
 or not (0) the patient exhibits signs of diabetic retinopathy. 
 
 ![retino](https://user-images.githubusercontent.com/25079132/53697879-e6a44680-3da3-11e9-9973-325c32e29572.JPG)
+
+The breast cancer dataset released by the UCI . Predictions were implemented using variants in gradient descents. \
+
+![bd](https://user-images.githubusercontent.com/25079132/53697966-b01afb80-3da4-11e9-86c9-62ead8fcea2f.JPG)
