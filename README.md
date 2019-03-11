@@ -1,6 +1,7 @@
 # Gradient-Descents-Variants
 
 The Mapfeatures is the kernel mapping of the nonlinear features . The polynomial kernel upto 6th degree.
+
 The logreg file has standard gradient descent implemented.The logreg adagrad has both stochastic gradient and Adagrad implemented.
 
 The tests were run using gradient descent variants for the Diabetes Dataset are tabled below:
